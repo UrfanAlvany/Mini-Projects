@@ -34,3 +34,12 @@ pip install math
 ```
 <img src="images/pending.png"/>
 
+
+
+## Tactoe.py
+```python
+1 Clone this repository in your desired directory.
+2 Run the command: python3 Tactoe.py.
+3 Enjoy!
+```
+<img src="images/Tactoe.png"/>
