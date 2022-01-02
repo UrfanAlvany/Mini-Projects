@@ -23,10 +23,7 @@ pip install Tkinter
 ## Game.py
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install random and  math.
 
-```bash
-pip install random
-pip install math
-```
+
 ```python
 1 Clone this repository in your desired directory.
 2 Run the command: python3 Game.py.
